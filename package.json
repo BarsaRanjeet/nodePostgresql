@@ -1,0 +1,23 @@
+{
+  "name": "nodepostgresql",
+  "version": "1.0.0",
+  "description": "integration nodejs with postresql",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjitBarsa/nodePostgresql.git"
+  },
+  "author": "Ranjit Barsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjitBarsa/nodePostgresql/issues"
+  },
+  "homepage": "https://github.com/RanjitBarsa/nodePostgresql#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
